@@ -1,0 +1,28 @@
+filename,title,artist,emotion,language,energy,popularity,highlight_start
+ANGRY/Believer.mp3,Believer,Imagine Dragons,angry,english,high,95,37
+ANGRY/G Eazy.mp3,Get Back Up,G-Eazy,angry,english,high,65,39
+ANGRY/Hey Mama.mp3,Hey Mama,David Guetta ft. Nicki Minaj,angry,english,high,92,43
+ANGRY/Tokyo Drift.mp3,Tokyo Drift,Teriyaki Boyz,angry,english,high,88,25
+ANGRY/Gasolina.mp3,Gasolina,Daddy Yankee,angry,spanish,high,97,30
+ANGRY/Tarantella.mp3,Tarantella,Traditional,angry,instrumental,50,15
+
+CALM/Breathless.mp3,Breathless,Shankar Mahadevan,calm,hindi,medium,90,0
+CALM/Glow.mp3,Glow,Unknown,calm,english,low,50,36
+CALM/Pani Da Rang.mp3,Pani Da Rang,Ayushmann Khurrana,calm,hindi,low,94,46
+CALM/Dheeme Dheeme.mp3,Dheeme Dheeme,Tony Kakkar,calm,hindi,low,87,35
+CALM/Hua Hain Aaj Pehli Baar.mp3,Hua Hain Aaj Pehli Baar,Armaan Malik & Palak Muchhal,calm,hindi,medium,88,51
+CALM/Fitoor.mp3,Fitoor,Arijit Singh,calm,hindi,medium,89,52
+
+HAPPY/Ghodey Pe Sawaar.mp3,Ghodey Pe Sawaar,Sireesha Bhagavatula,happy,hindi,medium,82,45
+HAPPY/Jeene Laga Hoon.mp3,Jeene Laga Hoon,Atif Aslam & Shreya Ghoshal,happy,hindi,medium,91,50
+HAPPY/No Lie.mp3,No Lie,Sean Paul ft. Dua Lipa,happy,english,high,92,34
+HAPPY/Levitating.mp3,Levitating,Dua Lipa,happy,english,high,98,31
+HAPPY/Love You Zindagi.mp3,Love You Zindagi,Jasleen Royal,happy,hindi,medium,92,38
+HAPPY/Zaalima.mp3,Zaalima,Arijit Singh & Harshdeep Kaur,happy,hindi,medium,94,43
+
+SAD/Aasan Nahin Yahan.mp3,Aasan Nahin Yahan,Arijit Singh,sad,hindi,low,92,55
+SAD/Ae Dil Hai Mushkil.mp3,Ae Dil Hai Mushkil,Arijit Singh,sad,hindi,low,96,58
+SAD/Chale Aana.mp3,Chale Aana,Armaan Malik,sad,hindi,low,88,43
+SAD/Let Me Down Slowly.mp3,Let Me Down Slowly,Alec Benjamin,sad,english,low,95,32
+SAD/Shiddat.mp3,Shiddat,Manan Bhardwaj,sad,hindi,medium,86,50
+SAD/Taaron Ke Shehar.mp3,Taaron Ke Shehar,Jubin Nautiyal & Neha Kakkar,sad,hindi,low,89,46

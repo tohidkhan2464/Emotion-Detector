@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "emotion-music-recommender"
+version = "0.1.0"
+description = "Emotion-aware local music recommender using webcam emotion detection."
+authors = ["Tohid"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+opencv-python = "4.11.0.86"
+pygame = "^2.6.1"
+pandas = "^2.3.2"
+scipy = "1.16.2"
+mutagen = "^1.48.1"
+python-vlc = "^3.0.21203"
+hsemotion = "^0.3.0"
+customtkinter = "^6.0.0"
+torch = "2.5.1"
+torchvision = "0.20.1"
+timm = "0.9.16"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^9.1.1"
+
+[tool.poetry.scripts]
+emotion-music-recommender = "main:main"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

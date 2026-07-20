@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+pygame
+pandas
+customtkinter
+python-vlc
+mutagen

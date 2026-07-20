@@ -1,0 +1,134 @@
+{
+  "happy": {
+    "playlists": [
+      {
+        "emotion": "happy",
+        "weight": 80
+      },
+      {
+        "emotion": "calm",
+        "weight": 20
+      }
+    ]
+  },
+  "sad": {
+    "playlists": [
+      {
+        "emotion": "sad",
+        "weight": 70
+      },
+      {
+        "emotion": "calm",
+        "weight": 30
+      }
+    ]
+  },
+  "calm": {
+    "playlists": [
+      {
+        "emotion": "calm",
+        "weight": 70
+      },
+      {
+        "emotion": "happy",
+        "weight": 30
+      }
+    ]
+  },
+  "angry": {
+    "playlists": [
+      {
+        "emotion": "angry",
+        "weight": 70
+      },
+      {
+        "emotion": "calm",
+        "weight": 30
+      }
+    ]
+  },
+  "neutral": {
+    "playlists": [
+      {
+        "emotion": "calm",
+        "weight": 80
+      },
+      {
+        "emotion": "happy",
+        "weight": 20
+      }
+    ]
+  },
+  "fear": {
+    "playlists": [
+      {
+        "emotion": "calm",
+        "weight": 85
+      },
+      {
+        "emotion": "happy",
+        "weight": 15
+      }
+    ]
+  },
+  "fearful": {
+    "playlists": [
+      {
+        "emotion": "calm",
+        "weight": 85
+      },
+      {
+        "emotion": "happy",
+        "weight": 15
+      }
+    ]
+  },
+  "surprise": {
+    "playlists": [
+      {
+        "emotion": "happy",
+        "weight": 80
+      },
+      {
+        "emotion": "calm",
+        "weight": 20
+      }
+    ]
+  },
+  "surprised": {
+    "playlists": [
+      {
+        "emotion": "happy",
+        "weight": 80
+      },
+      {
+        "emotion": "calm",
+        "weight": 20
+      }
+    ]
+  },
+  "disgust": {
+    "playlists": [
+      {
+        "emotion": "angry",
+        "weight": 70
+      },
+      {
+        "emotion": "calm",
+        "weight": 30
+      }
+    ]
+  },
+  "disgusted": {
+    "playlists": [
+      {
+        "emotion": "angry",
+        "weight": 70
+      },
+      {
+        "emotion": "calm",
+        "weight": 30
+      }
+    ]
+  }
+}
